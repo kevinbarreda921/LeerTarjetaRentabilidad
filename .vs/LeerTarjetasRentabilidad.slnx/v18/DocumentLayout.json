@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectkevin\\leertarjetarentabilidad\\leertarjetasrentabilidad\\resultadogrifos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\resultadogrifos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectkevin\\leertarjetarentabilidad\\leertarjetasrentabilidad\\grifosleer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\grifosleer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -22,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GrifosLeer.json",
               "DocumentMoniker": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\GrifosLeer.json",
               "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\GrifosLeer.json",
               "ToolTip": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\GrifosLeer.json",
               "RelativeToolTip": "LeerTarjetasRentabilidad\\GrifosLeer.json",
-              "ViewState": "AgIAAOEAAAAAAAAAAAAgwAQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAgwPYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-24T07:38:26.807Z",
               "EditorCaption": ""
@@ -37,8 +41,21 @@
         },
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultadoGrifos.json",
+              "DocumentMoniker": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "ToolTip": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "RelativeToolTip": "LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "ViewState": "AgIAAEsnAAAAAAAAAAAAAMZGAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T19:56:53.579Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,7 +64,7 @@
               "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\Program.cs",
               "ToolTip": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
               "RelativeToolTip": "LeerTarjetasRentabilidad\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T06:46:44.891Z",
               "EditorCaption": ""

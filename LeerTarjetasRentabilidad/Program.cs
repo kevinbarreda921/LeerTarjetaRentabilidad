@@ -15,31 +15,45 @@ string rutaSalidaJson = Path.Combine(rutaProyecto, "ResultadoGrifos.json");
 
 try
 {
-    string sheetName = "Juan Carlos"; // Puede ser "Lou", "Coco", etc.
 
-    Console.WriteLine($"Cargando la configuración de grifos para la hoja '{sheetName}' desde JSON...");
-    var configGrifos = CargarConfiguracionGrifos(rutaArchivoJson, sheetName);
 
-    if (configGrifos == null || configGrifos.Count == 0)
+    // 1. Definir la lista de ejecuciones (hojas y rangos de filas a procesar)
+    var ejecuciones = new List<(string SheetName, int StartRow, int EndRow)>
     {
-        MostrarError($"No se encontró configuración para la hoja '{sheetName}' en el archivo JSON.");
-        return;
+        ("Lou", 80, 110),
+        ("Lou", 119, 148),
+        ("Coco", 80, 110),
+        ("Coco", 118, 147),
+        ("Jeaneth", 234, 264),
+        ("Jeaneth", 272, 301),
+        ("Mavel completo", 298, 328),
+        ("Mavel completo", 335, 364),
+        ("Juan Carlos", 160, 190),
+        ("Juan Carlos", 198, 227)
+    };
+
+    var registros = new List<RegistroTarjeta>();
+
+    Console.WriteLine("Iniciando procesamiento de hojas y rangos...");
+
+    // 2. Ejecutar cada una en un bucle y acumular los registros
+    foreach (var (sheetName, startRow, endRow) in ejecuciones)
+    {
+        Console.WriteLine($"\n[PROCESO] Cargando configuración para la hoja '{sheetName}'...");
+        var configGrifos = CargarConfiguracionGrifos(rutaArchivoJson, sheetName);
+
+        if (configGrifos == null || configGrifos.Count == 0)
+        {
+            MostrarError($"No se encontró configuración para la hoja '{sheetName}' en el archivo JSON.");
+            continue; // Continuar con las demás ejecuciones si alguna falla
+        }
+
+        Console.WriteLine($"[PROCESO] Leyendo Excel - Hoja: '{sheetName}' | Filas: {startRow} a {endRow}...");
+        var registrosHoja = LeerExcelDinamico(rutaArchivoExcel, sheetName, configGrifos, startRow, endRow);
+        registros.AddRange(registrosHoja);
     }
 
-    Console.WriteLine($"Configuración cargada con éxito. Se detectaron {configGrifos.Count} grifos a procesar.");
-    Console.WriteLine("Iniciando la lectura del archivo Excel...");
-
-    // 2. Leer los registros dinámicamente según la configuración
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Lou", configGrifos, 80, 110);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Lou", configGrifos, 119, 148);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Coco", configGrifos, 80, 110);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Coco",configGrifos, 118, 147);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Jeaneth", configGrifos, 234, 264);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Jeaneth", configGrifos, 272, 301);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Mavel completo", configGrifos, 298, 328);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Mavel completo", configGrifos, 335, 364);
-    List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Juan Carlos", configGrifos, 160, 190);
-    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Juan Carlos", configGrifos, 198, 227);
+    Console.WriteLine($"\n[PROCESO] Lectura completada. Se procesaron {registros.Count} registros en total.");
 
     // 3. Agrupar los resultados por grifo en el formato solicitado
     var agrupadoPorGrifo = registros
@@ -62,8 +76,9 @@ try
     Console.WriteLine($"\n[ÉXITO] Se ha generado con éxito el archivo JSON en:");
     Console.WriteLine(rutaSalidaJson);
 
-    Console.WriteLine("\n--- JSON GENERADO ---");
-    Console.WriteLine(jsonResultado);
+    Console.WriteLine("\n--- RESUMEN DE PROCESAMIENTO ---");
+    Console.WriteLine($"Total de registros procesados: {registros.Count}");
+    Console.WriteLine($"Total de grifos agrupados: {agrupadoPorGrifo.Count}");
 
 
 }
