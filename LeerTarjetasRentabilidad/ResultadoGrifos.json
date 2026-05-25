@@ -1,0 +1,2357 @@
+{
+  "CATACAOS": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 1929.18,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 6782.36,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 2797.29,
+      "DataDescuento": 31.48
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 13342.07,
+      "DataDescuento": 17.55
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 3807.22,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 8724.69,
+      "DataDescuento": 39.60
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 550.7,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 8772.81,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 12782.1,
+      "DataDescuento": 82.32
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 11170.88,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 6203.4,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 1379.97,
+      "DataDescuento": 52.37
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 1393.27,
+      "DataDescuento": 39.83
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 3386.3,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 1928.13,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 4146.88,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 3350.66,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 4495.04,
+      "DataDescuento": 27.63
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 4990.78,
+      "DataDescuento": -8.18
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 5790.92,
+      "DataDescuento": 22.46
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 4954.25,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 1855.11,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 4650.43,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 5798.61,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 3426.26,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 3937.7,
+      "DataDescuento": 6.36
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 4329.51,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 4143.05,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 1987.2,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 4078.65,
+      "DataDescuento": 15.98
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 3432.56,
+      "DataDescuento": 0
+    }
+  ],
+  "PUENTEPIEDRA": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "CHILCA": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 137.23
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 307.91
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 502.36
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 350.61
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 622.73
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 259.66
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 457.2
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 107.23
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 554.62
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 156.56
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 879.79
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 280.83
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 476.97
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 264.95
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 382.82
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 460.52
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 558.75
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 247.36
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 389.98
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 590.95
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 711.6
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 116.35
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 382.68
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 374.05
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 150.47
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 89.52
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 348.31
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 498.74
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 126.38
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 480
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 4458.97
+    }
+  ],
+  "VIRU": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 570.9,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 1004.04,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 1222.5,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 1109.65,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 972.27,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 867.64,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 1515.9,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 1037.2,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 1030.8,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 985.4,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 1066.9,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 764,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 1725.7,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 1262.65,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 1177,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 1097.2,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 811.5,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 1452.5,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 1331.68,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 1910.5,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 1564.6,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 1562.1,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 1847.5,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 1396.12,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 1403.28,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 216.49,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 1288,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 1241.3,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 1256.7,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 1493.9,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 1665.83,
+      "DataDescuento": 0
+    }
+  ],
+  "BRASIL": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 3278.98,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 2786.64,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 150,
+      "DataDescuento": 38.02
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 2089.26,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 2880.3,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 850.65,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 460.18,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 7034.75,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 31.95,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 375.86,
+      "DataDescuento": 70.73
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 4570.37,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 3166.14,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 2061.42,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 2965.51,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 2816.78,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 3320.52,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 2856.38,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 2868.46,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 3649.8,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 2484.93,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 3079.64,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 3721.99,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 4147.73,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 3251.46,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 4553.53,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 4185.11,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 2395.39,
+      "DataDescuento": 11.94
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 3298.75,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 3477.69,
+      "DataDescuento": 0
+    }
+  ],
+  "MAKITA": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 7726.29,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 12221.52,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 13862.6,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 10694.41,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 22703.49,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 21248.11,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 18385.99,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 11612.83,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 9698.99,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 21540.5,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 15721.41,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 16600.09,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 12411.02,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 12591.61,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 9085.72,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 12976.46,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 11246.66,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 13356.04,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 12433.78,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 13470.86,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 12875.39,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 8603.51,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 14260.64,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 11501.56,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 12540.44,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 10289.36,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 12494.77,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 12862.06,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 7958.35,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 14970.15,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 12000.21,
+      "DataDescuento": 0
+    }
+  ],
+  "SAN PABLO": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "TULIS": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "HUANCHACO": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "ENACE": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "ACAPULCO": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "SANMARCOS": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "MARIAEUGENIA": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "QUISTOCOCHA": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ],
+  "VELITA": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 0,
+      "DataDescuento": 0
+    }
+  ]
+}

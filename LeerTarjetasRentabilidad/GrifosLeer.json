@@ -1,0 +1,127 @@
+{
+  "Lou": {
+    "CATACAOS": {
+      "celda_liquidos": 2,
+      "celda_Descuento": 9
+    },
+    "PUENTEPIEDRA": {
+      "celda_liquidos": 12,
+      "celda_Descuento": 20
+    },
+    "CHILCA": {
+      "celda_liquidos": 23,
+      "celda_Descuento": 31
+    },
+    "VIRU": {
+      "celda_liquidos": 34,
+      "celda_Descuento": 42
+    },
+    "BRASIL": {
+      "celda_liquidos": 45,
+      "celda_Descuento": 53
+    },
+    "MAKITA": {
+      "celda_liquidos": 56,
+      "celda_Descuento": 64
+    },
+    "SAN PABLO": {
+      "celda_liquidos": 67,
+      "celda_Descuento": 76
+    },
+    "TULIS": {
+      "celda_liquidos": 79,
+      "celda_Descuento": 86
+    },
+    "HUANCHACO": {
+      "celda_liquidos": 89,
+      "celda_Descuento": 96
+    },
+    "ENACE": {
+      "celda_liquidos": 99,
+      "celda_Descuento": 107
+    },
+    "ACAPULCO": {
+      "celda_liquidos": 110,
+      "celda_Descuento": 117
+    },
+    "SANMARCOS": {
+      "celda_liquidos": 120,
+      "celda_Descuento": 126
+    },
+    "MARIAEUGENIA": {
+      "celda_liquidos": 129,
+      "celda_Descuento": 135
+    },
+    "QUISTOCOCHA": {
+      "celda_liquidos": 138,
+      "celda_Descuento": 144
+    },
+    "VELITA": {
+      "celda_liquidos": 147,
+      "celda_Descuento": 153
+    }
+  },
+  "Coco": {
+    "BAUZATE": {
+      "celda_liquidos": 2,
+      "celda_Descuento": 10
+    },
+    "PUENTEPIEDRA": {
+      "celda_liquidos": 12,
+      "celda_Descuento": 20
+    },
+    "CHILCA": {
+      "celda_liquidos": 23,
+      "celda_Descuento": 31
+    },
+    "VIRU": {
+      "celda_liquidos": 34,
+      "celda_Descuento": 42
+    },
+    "BRASIL": {
+      "celda_liquidos": 45,
+      "celda_Descuento": 53
+    },
+    "MAKITA": {
+      "celda_liquidos": 56,
+      "celda_Descuento": 64
+    },
+    "SAN PABLO": {
+      "celda_liquidos": 67,
+      "celda_Descuento": 76
+    },
+    "TULIS": {
+      "celda_liquidos": 79,
+      "celda_Descuento": 86
+    },
+    "HUANCHACO": {
+      "celda_liquidos": 89,
+      "celda_Descuento": 96
+    },
+    "ENACE": {
+      "celda_liquidos": 99,
+      "celda_Descuento": 107
+    },
+    "ACAPULCO": {
+      "celda_liquidos": 110,
+      "celda_Descuento": 117
+    },
+    "SANMARCOS": {
+      "celda_liquidos": 120,
+      "celda_Descuento": 126
+    },
+    "MARIAEUGENIA": {
+      "celda_liquidos": 129,
+      "celda_Descuento": 135
+    },
+    "QUISTOCOCHA": {
+      "celda_liquidos": 138,
+      "celda_Descuento": 144
+    },
+    "VELITA": {
+      "celda_liquidos": 147,
+      "celda_Descuento": 153
+    }
+  }
+
+}

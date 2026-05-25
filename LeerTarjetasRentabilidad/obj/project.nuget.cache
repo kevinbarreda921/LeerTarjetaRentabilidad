@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLQK5JrQJqM=",
+  "success": true,
+  "projectFilePath": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\exceldatareader\\3.8.0\\exceldatareader.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
