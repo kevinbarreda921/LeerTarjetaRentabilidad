@@ -1,2357 +1,1572 @@
 {
-  "CATACAOS": [
+  "PUERTO": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 1929.18,
+      "DataLiquidos": 2787.23,
+      "DataDescuento": 291.14
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 3696.85,
+      "DataDescuento": 43.62
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 8036.22,
+      "DataDescuento": 104.78
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 13135.73,
+      "DataDescuento": 326.37
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 5760.69,
+      "DataDescuento": 483.52
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 10901.74,
+      "DataDescuento": 99.11
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 25962.84,
+      "DataDescuento": 205.88
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 6381.8,
+      "DataDescuento": 12.95
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 3025.81,
+      "DataDescuento": 309.45
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 26455.9,
+      "DataDescuento": 22.64
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 13088.48,
+      "DataDescuento": 111.32
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 6106.65,
+      "DataDescuento": 345.24
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 1616.01,
+      "DataDescuento": 12.01
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 3717.38,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 1627.85,
+      "DataDescuento": 21.43
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 3253.88,
+      "DataDescuento": 360.71
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 6699.23,
+      "DataDescuento": 987.91
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 4925.48,
+      "DataDescuento": 300.53
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 4680.71,
+      "DataDescuento": 140.30
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 3754.61,
+      "DataDescuento": 170.35
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 2579.88,
+      "DataDescuento": 351.78
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 4023.5,
+      "DataDescuento": 507
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 3703.34,
+      "DataDescuento": 231.19
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 6358.16,
+      "DataDescuento": 533.39
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 4090.22,
+      "DataDescuento": 561.59
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 3887.69,
+      "DataDescuento": 247.97
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 7076.47,
+      "DataDescuento": 184.58
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 3275.17,
+      "DataDescuento": 183.49
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 1548.91,
+      "DataDescuento": 240.83
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 3761.65,
+      "DataDescuento": 1004.71
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 4754.71,
+      "DataDescuento": 397.68
+    }
+  ],
+  "TOMAS": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 8892.51,
+      "DataDescuento": 657.47
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 15755.9,
+      "DataDescuento": 651.81
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 20994.9,
+      "DataDescuento": 556.67
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 18924.16,
+      "DataDescuento": 496.09
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 28311.52,
+      "DataDescuento": 845.11
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 25960.59,
+      "DataDescuento": 864.08
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 22265.6,
+      "DataDescuento": 530.24
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 38789.98,
+      "DataDescuento": 403.71
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 22500.46,
+      "DataDescuento": 2019.98
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 4446.22,
+      "DataDescuento": 641.07
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 7242.42,
+      "DataDescuento": 1615.02
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 20162.12,
+      "DataDescuento": 1769.99
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 11932.34,
+      "DataDescuento": 3088.44
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 11533.88,
+      "DataDescuento": 1952.53
+    },
+    {
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 9565.03,
+      "DataDescuento": 587.08
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 11273.08,
+      "DataDescuento": 1639.13
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 11789.74,
+      "DataDescuento": 1408.01
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 12208.07,
+      "DataDescuento": 1233.59
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 12129.94,
+      "DataDescuento": 614.82
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 11513.01,
+      "DataDescuento": 995.18
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 11776.51,
+      "DataDescuento": 858.96
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 9949.96,
+      "DataDescuento": 342.52
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 11400.98,
+      "DataDescuento": 1606.69
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 12082.33,
+      "DataDescuento": 822.08
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 12540.23,
+      "DataDescuento": 760.38
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 9461.81,
+      "DataDescuento": 992.19
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 12415.14,
+      "DataDescuento": 1032.41
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 9629.67,
+      "DataDescuento": 575.20
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 8359.48,
+      "DataDescuento": 266.13
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 13266.33,
+      "DataDescuento": 1001.80
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 11134.09,
+      "DataDescuento": 663.08
+    }
+  ],
+  "VARIANTE": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 6245.9,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 6782.36,
+      "DataLiquidos": 3335.45,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 2797.29,
-      "DataDescuento": 31.48
+      "DataLiquidos": 4659.4,
+      "DataDescuento": 1.89
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 13342.07,
-      "DataDescuento": 17.55
+      "DataLiquidos": 2001.98,
+      "DataDescuento": 7.74
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 3807.22,
+      "DataLiquidos": 8908.04,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 8724.69,
-      "DataDescuento": 39.60
+      "DataLiquidos": 4712.49,
+      "DataDescuento": 43.66
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 550.7,
-      "DataDescuento": 0
+      "DataLiquidos": 4884.88,
+      "DataDescuento": 70.61
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 8772.81,
-      "DataDescuento": 0
+      "DataLiquidos": 2169.28,
+      "DataDescuento": 42.29
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 12782.1,
-      "DataDescuento": 82.32
+      "DataLiquidos": 3327.67,
+      "DataDescuento": 1973.43
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 11170.88,
-      "DataDescuento": 0
+      "DataLiquidos": 1516.42,
+      "DataDescuento": 690.61
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 6203.4,
-      "DataDescuento": 0
+      "DataLiquidos": 8467.52,
+      "DataDescuento": 732.24
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 1379.97,
-      "DataDescuento": 52.37
+      "DataLiquidos": 1110,
+      "DataDescuento": 503.91
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 1393.27,
-      "DataDescuento": 39.83
+      "DataLiquidos": 5016.39,
+      "DataDescuento": 1237.84
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 3386.3,
+      "DataLiquidos": 2686.43,
       "DataDescuento": 0
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 1928.13,
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 2239.79,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 4146.88,
+      "DataLiquidos": 1165.1,
+      "DataDescuento": 88.84
+    },
+    {
+      "fecha_hoja": "17/03/2026",
+      "DataLiquidos": 5456.16,
+      "DataDescuento": 273
+    },
+    {
+      "fecha_hoja": "18/03/2026",
+      "DataLiquidos": 11058.85,
+      "DataDescuento": 63.75
+    },
+    {
+      "fecha_hoja": "19/03/2026",
+      "DataLiquidos": 2360.11,
+      "DataDescuento": 118.93
+    },
+    {
+      "fecha_hoja": "20/03/2026",
+      "DataLiquidos": 3072.78,
+      "DataDescuento": 23.86
+    },
+    {
+      "fecha_hoja": "21/03/2026",
+      "DataLiquidos": 6561.78,
+      "DataDescuento": 39.51
+    },
+    {
+      "fecha_hoja": "22/03/2026",
+      "DataLiquidos": 1097.76,
+      "DataDescuento": 23.95
+    },
+    {
+      "fecha_hoja": "23/03/2026",
+      "DataLiquidos": 2815.45,
+      "DataDescuento": 175.09
+    },
+    {
+      "fecha_hoja": "24/03/2026",
+      "DataLiquidos": 4418,
+      "DataDescuento": 9.36
+    },
+    {
+      "fecha_hoja": "25/03/2026",
+      "DataLiquidos": 5677.13,
+      "DataDescuento": 20.77
+    },
+    {
+      "fecha_hoja": "26/03/2026",
+      "DataLiquidos": 2216.07,
+      "DataDescuento": 101.85
+    },
+    {
+      "fecha_hoja": "27/03/2026",
+      "DataLiquidos": 2435.12,
+      "DataDescuento": 214.02
+    },
+    {
+      "fecha_hoja": "28/03/2026",
+      "DataLiquidos": 5195.49,
+      "DataDescuento": 210.81
+    },
+    {
+      "fecha_hoja": "29/03/2026",
+      "DataLiquidos": 2230.13,
+      "DataDescuento": 22.98
+    },
+    {
+      "fecha_hoja": "30/03/2026",
+      "DataLiquidos": 2570.47,
+      "DataDescuento": 202.92
+    },
+    {
+      "fecha_hoja": "31/03/2026",
+      "DataLiquidos": 2854.89,
+      "DataDescuento": 153.75
+    }
+  ],
+  "JOYA 1": [
+    {
+      "fecha_hoja": "1/03/2026",
+      "DataLiquidos": 7330.58,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "2/03/2026",
+      "DataLiquidos": 4828.07,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "3/03/2026",
+      "DataLiquidos": 11205.91,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "4/03/2026",
+      "DataLiquidos": 13020.3,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "5/03/2026",
+      "DataLiquidos": 14669.35,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "6/03/2026",
+      "DataLiquidos": 7794.42,
+      "DataDescuento": 6478.5
+    },
+    {
+      "fecha_hoja": "7/03/2026",
+      "DataLiquidos": 8716.98,
+      "DataDescuento": 11.34
+    },
+    {
+      "fecha_hoja": "8/03/2026",
+      "DataLiquidos": 2156.06,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "9/03/2026",
+      "DataLiquidos": 7180.16,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "10/03/2026",
+      "DataLiquidos": 3489.12,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "11/03/2026",
+      "DataLiquidos": 10548.94,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "12/03/2026",
+      "DataLiquidos": 3443.62,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "13/03/2026",
+      "DataLiquidos": 7260.88,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "14/03/2026",
+      "DataLiquidos": 5037.65,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 3586.42,
+      "DataDescuento": 0
+    },
+    {
+      "fecha_hoja": "16/03/2026",
+      "DataLiquidos": 6669.3,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 3350.66,
-      "DataDescuento": 0
+      "DataLiquidos": 6723.57,
+      "DataDescuento": 1166
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 4495.04,
-      "DataDescuento": 27.63
+      "DataLiquidos": 5759.89,
+      "DataDescuento": 0
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 4990.78,
-      "DataDescuento": -8.18
+      "DataLiquidos": 7779.91,
+      "DataDescuento": 0
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 5790.92,
-      "DataDescuento": 22.46
+      "DataLiquidos": 10153.46,
+      "DataDescuento": 0
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 4954.25,
+      "DataLiquidos": 8146.75,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 1855.11,
+      "DataLiquidos": 7374.65,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 4650.43,
-      "DataDescuento": 0
+      "DataLiquidos": 11887.34,
+      "DataDescuento": 154
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 5798.61,
+      "DataLiquidos": 10975.45,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 3426.26,
+      "DataLiquidos": 26330.19,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 3937.7,
-      "DataDescuento": 6.36
+      "DataLiquidos": 14821.03,
+      "DataDescuento": 0
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 4329.51,
+      "DataLiquidos": 14307.14,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 4143.05,
+      "DataLiquidos": 11538.67,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 1987.2,
+      "DataLiquidos": 10361.76,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 4078.65,
-      "DataDescuento": 15.98
+      "DataLiquidos": 8266.11,
+      "DataDescuento": 220
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 3432.56,
+      "DataLiquidos": 13489.52,
       "DataDescuento": 0
     }
   ],
-  "PUENTEPIEDRA": [
+  "SULLANA": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3666.18,
+      "DataDescuento": 225.06
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 7072.74,
+      "DataDescuento": 431.89
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 10032.16,
+      "DataDescuento": 837.13
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6264.59,
+      "DataDescuento": 654.75
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 16099.82,
+      "DataDescuento": 576.72
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 13044.89,
+      "DataDescuento": 488.57
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4807.44,
+      "DataDescuento": 341.54
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4400.48,
+      "DataDescuento": 426.83
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5141.07,
+      "DataDescuento": 496.50
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4365.74,
+      "DataDescuento": 563.75
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4459.3,
+      "DataDescuento": 641.33
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4760.44,
+      "DataDescuento": 352.83
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3318.06,
+      "DataDescuento": 693.38
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3946.23,
+      "DataDescuento": 329.90
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 4260.59,
+      "DataDescuento": 73.81
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4430.16,
+      "DataDescuento": 268.26
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5998.87,
+      "DataDescuento": 587.95
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5121.53,
+      "DataDescuento": 521.23
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5705.7,
+      "DataDescuento": 455.09
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5302.14,
+      "DataDescuento": 206.51
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4589.75,
+      "DataDescuento": 115.43
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 2847.44,
+      "DataDescuento": 126.84
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4872.2,
+      "DataDescuento": 230.32
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5189.03,
+      "DataDescuento": 210.71
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 19536.59,
+      "DataDescuento": 965.12
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 7039.85,
+      "DataDescuento": 232.60
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4917.59,
+      "DataDescuento": 274.13
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5774.71,
+      "DataDescuento": 170.22
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3827.06,
+      "DataDescuento": 41.84
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6158.63,
+      "DataDescuento": 275.00
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5304.27,
+      "DataDescuento": 167.18
     }
   ],
-  "CHILCA": [
+  "JOYA 2": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 137.23
+      "DataLiquidos": 3760.81,
+      "DataDescuento": 28.08
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 307.91
+      "DataLiquidos": 5870.02,
+      "DataDescuento": 261.87
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 502.36
+      "DataLiquidos": 11271.38,
+      "DataDescuento": 173.88
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 350.61
+      "DataLiquidos": 6808.14,
+      "DataDescuento": 13.22
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 622.73
+      "DataLiquidos": 19104.37,
+      "DataDescuento": 189.82
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 259.66
+      "DataLiquidos": 8077.96,
+      "DataDescuento": -46.77
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 457.2
+      "DataLiquidos": 4629.16,
+      "DataDescuento": 176.03
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 107.23
+      "DataLiquidos": 4830.51,
+      "DataDescuento": 46.12
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 554.62
+      "DataLiquidos": 4714.54,
+      "DataDescuento": 54.63
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 156.56
+      "DataLiquidos": 8809.22,
+      "DataDescuento": 345.20
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 879.79
+      "DataLiquidos": 10685.65,
+      "DataDescuento": 673.15
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 280.83
+      "DataLiquidos": 49191.62,
+      "DataDescuento": 291.65
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 476.97
+      "DataLiquidos": 9567.85,
+      "DataDescuento": 262.52
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 264.95
+      "DataLiquidos": 43991.45,
+      "DataDescuento": 66.80
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 382.82
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 2069.8,
+      "DataDescuento": 80.79
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 460.52
+      "DataLiquidos": 12448.41,
+      "DataDescuento": 238.43
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 558.75
+      "DataLiquidos": 22078.44,
+      "DataDescuento": 162.15
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 247.36
+      "DataLiquidos": 4856.61,
+      "DataDescuento": 6761.64
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 389.98
+      "DataLiquidos": 10764,
+      "DataDescuento": 240.61
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 590.95
+      "DataLiquidos": 5904.8,
+      "DataDescuento": 1139.87
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 711.6
+      "DataLiquidos": 5194.09,
+      "DataDescuento": 961.75
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 116.35
+      "DataLiquidos": 6665.79,
+      "DataDescuento": 42.57
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 382.68
+      "DataLiquidos": 7965.96,
+      "DataDescuento": 557.00
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 374.05
+      "DataLiquidos": 10603.37,
+      "DataDescuento": 3147.80
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 150.47
+      "DataLiquidos": 13065.17,
+      "DataDescuento": 1503.41
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 89.52
+      "DataLiquidos": 8623.97,
+      "DataDescuento": 1822.45
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 348.31
+      "DataLiquidos": 18893.99,
+      "DataDescuento": 445.51
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 498.74
+      "DataLiquidos": 7452.3,
+      "DataDescuento": 150.14
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 126.38
+      "DataLiquidos": 5140.89,
+      "DataDescuento": 52.73
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 480
+      "DataLiquidos": 4741.73,
+      "DataDescuento": 4369.10
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 4458.97
+      "DataLiquidos": 6357.43,
+      "DataDescuento": 233.87
     }
   ],
-  "VIRU": [
+  "PUCUSANA": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 570.9,
-      "DataDescuento": 0
+      "DataLiquidos": 14997.91,
+      "DataDescuento": 485.85
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 1004.04,
-      "DataDescuento": 0
+      "DataLiquidos": 12397.34,
+      "DataDescuento": 707.38
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 1222.5,
-      "DataDescuento": 0
+      "DataLiquidos": 18189.28,
+      "DataDescuento": 750.66
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 1109.65,
-      "DataDescuento": 0
+      "DataLiquidos": 14636.83,
+      "DataDescuento": 606.10
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 972.27,
-      "DataDescuento": 0
+      "DataLiquidos": 24153.08,
+      "DataDescuento": 646.79
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 867.64,
-      "DataDescuento": 0
+      "DataLiquidos": 42537.12,
+      "DataDescuento": 1245.95
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 1515.9,
-      "DataDescuento": 0
+      "DataLiquidos": 32489.7,
+      "DataDescuento": 1225.71
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 1037.2,
-      "DataDescuento": 0
+      "DataLiquidos": 12503.97,
+      "DataDescuento": 487.69
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 1030.8,
-      "DataDescuento": 0
+      "DataLiquidos": 19078.92,
+      "DataDescuento": 1421.32
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 985.4,
-      "DataDescuento": 0
+      "DataLiquidos": 29066.3,
+      "DataDescuento": 1879.24
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 1066.9,
-      "DataDescuento": 0
+      "DataLiquidos": 21461.8,
+      "DataDescuento": 1833.56
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 764,
-      "DataDescuento": 0
+      "DataLiquidos": 18269.87,
+      "DataDescuento": 2580.35
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 1725.7,
-      "DataDescuento": 0
+      "DataLiquidos": 17795.2,
+      "DataDescuento": 3108.60
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 1262.65,
-      "DataDescuento": 0
+      "DataLiquidos": 26702.05,
+      "DataDescuento": 1357.06
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 1177,
-      "DataDescuento": 0
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 10700.86,
+      "DataDescuento": 1522.15
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 1097.2,
-      "DataDescuento": 0
+      "DataLiquidos": 24143.1,
+      "DataDescuento": 1463.07
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 811.5,
-      "DataDescuento": 0
+      "DataLiquidos": 35100.91,
+      "DataDescuento": 1918.91
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 1452.5,
-      "DataDescuento": 0
+      "DataLiquidos": 35093.65,
+      "DataDescuento": 250.58
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 1331.68,
-      "DataDescuento": 0
+      "DataLiquidos": 22752.62,
+      "DataDescuento": 1304.17
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 1910.5,
-      "DataDescuento": 0
+      "DataLiquidos": 45676.57,
+      "DataDescuento": 1206.03
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 1564.6,
-      "DataDescuento": 0
+      "DataLiquidos": 24853.46,
+      "DataDescuento": 971.47
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 1562.1,
-      "DataDescuento": 0
+      "DataLiquidos": 18673.87,
+      "DataDescuento": 369.13
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 1847.5,
-      "DataDescuento": 0
+      "DataLiquidos": 18509.59,
+      "DataDescuento": 1547.74
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 1396.12,
-      "DataDescuento": 0
+      "DataLiquidos": 37931.7,
+      "DataDescuento": 1763.41
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 1403.28,
-      "DataDescuento": 0
+      "DataLiquidos": 31679.66,
+      "DataDescuento": 875.67
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 216.49,
-      "DataDescuento": 0
+      "DataLiquidos": 26002.04,
+      "DataDescuento": 744.87
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 1288,
-      "DataDescuento": 0
+      "DataLiquidos": 24861.83,
+      "DataDescuento": 1212.55
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 1241.3,
-      "DataDescuento": 0
+      "DataLiquidos": 32811.47,
+      "DataDescuento": 700.42
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 1256.7,
-      "DataDescuento": 0
+      "DataLiquidos": 22827.56,
+      "DataDescuento": 453.30
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 1493.9,
-      "DataDescuento": 0
+      "DataLiquidos": 21994.03,
+      "DataDescuento": 1665.34
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 1665.83,
-      "DataDescuento": 0
+      "DataLiquidos": 28554.53,
+      "DataDescuento": 1514.51
     }
   ],
-  "BRASIL": [
+  "CARAPONGO": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 3278.98,
+      "DataLiquidos": 2439.54,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 2786.64,
-      "DataDescuento": 0
+      "DataLiquidos": 4040.6,
+      "DataDescuento": 2.69
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 150,
-      "DataDescuento": 38.02
+      "DataLiquidos": 6676.6,
+      "DataDescuento": 1.56
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 2089.26,
-      "DataDescuento": 0
+      "DataLiquidos": 4235.24,
+      "DataDescuento": 7.6
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 2880.3,
-      "DataDescuento": 0
+      "DataLiquidos": 7061.52,
+      "DataDescuento": 9.95
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 850.65,
-      "DataDescuento": 0
+      "DataLiquidos": 4677.53,
+      "DataDescuento": 0.9
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 460.18,
-      "DataDescuento": 0
+      "DataLiquidos": 3892.74,
+      "DataDescuento": 16.2
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 7034.75,
+      "DataLiquidos": 2693.54,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 846.89,
+      "DataDescuento": 1.23
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 31.95,
+      "DataLiquidos": 4853.93,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 375.86,
-      "DataDescuento": 70.73
+      "DataLiquidos": 3220.71,
+      "DataDescuento": 6.5
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4977.7,
+      "DataDescuento": 8.09
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 4570.37,
-      "DataDescuento": 0
+      "DataLiquidos": 3350.03,
+      "DataDescuento": 3.81
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 3166.14,
+      "DataLiquidos": 4127.71,
       "DataDescuento": 0
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 2061.42,
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 3068.66,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 2965.51,
-      "DataDescuento": 0
+      "DataLiquidos": 5265.38,
+      "DataDescuento": 5.66
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 2816.78,
-      "DataDescuento": 0
+      "DataLiquidos": 3926.71,
+      "DataDescuento": 6.67
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 3320.52,
-      "DataDescuento": 0
+      "DataLiquidos": 3016.33,
+      "DataDescuento": 4.89
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 2856.38,
-      "DataDescuento": 0
+      "DataLiquidos": 4695.19,
+      "DataDescuento": 2.74
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 2868.46,
-      "DataDescuento": 0
+      "DataLiquidos": 6790.53,
+      "DataDescuento": 4.91
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 3649.8,
-      "DataDescuento": 0
+      "DataLiquidos": 3663.66,
+      "DataDescuento": 6.42
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 2484.93,
-      "DataDescuento": 0
+      "DataLiquidos": 2431.01,
+      "DataDescuento": 1.31
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 3079.64,
+      "DataLiquidos": 11021.33,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 3721.99,
-      "DataDescuento": 0
+      "DataLiquidos": 4170.2,
+      "DataDescuento": 5.15
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 4147.73,
+      "DataLiquidos": 1833.31,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 3251.46,
+      "DataLiquidos": 3107.47,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 4553.53,
-      "DataDescuento": 0
+      "DataLiquidos": 6258.38,
+      "DataDescuento": 7.33
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 4185.11,
-      "DataDescuento": 0
+      "DataLiquidos": 3474.42,
+      "DataDescuento": 0.65
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 2395.39,
-      "DataDescuento": 11.94
+      "DataLiquidos": 2704.21,
+      "DataDescuento": 0
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 3298.75,
-      "DataDescuento": 0
+      "DataLiquidos": 4570.92,
+      "DataDescuento": 7.45
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 3477.69,
-      "DataDescuento": 0
+      "DataLiquidos": 4400.85,
+      "DataDescuento": 2.55
     }
   ],
-  "MAKITA": [
+  "SHESSELL": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 7726.29,
-      "DataDescuento": 0
+      "DataLiquidos": 1044.97,
+      "DataDescuento": 187.90
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 12221.52,
-      "DataDescuento": 0
+      "DataLiquidos": 3317.24,
+      "DataDescuento": 25.49
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 13862.6,
-      "DataDescuento": 0
+      "DataLiquidos": 4438.8,
+      "DataDescuento": 228.54
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 10694.41,
-      "DataDescuento": 0
+      "DataLiquidos": 1560.45,
+      "DataDescuento": 52.75
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 22703.49,
-      "DataDescuento": 0
+      "DataLiquidos": 6934.47,
+      "DataDescuento": 754.80
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 21248.11,
-      "DataDescuento": 0
+      "DataLiquidos": 7562.21,
+      "DataDescuento": 164.38
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 18385.99,
-      "DataDescuento": 0
+      "DataLiquidos": 2864.89,
+      "DataDescuento": 221.77
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 11612.83,
-      "DataDescuento": 0
+      "DataLiquidos": 2318.59,
+      "DataDescuento": 85.26
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 9698.99,
-      "DataDescuento": 0
+      "DataLiquidos": 2539.32,
+      "DataDescuento": 254.18
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 21540.5,
-      "DataDescuento": 0
+      "DataLiquidos": 2425.44,
+      "DataDescuento": 222.85
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 15721.41,
-      "DataDescuento": 0
+      "DataLiquidos": 510.42,
+      "DataDescuento": 210.06
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 16600.09,
-      "DataDescuento": 0
+      "DataLiquidos": 1539.06,
+      "DataDescuento": 278.98
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 12411.02,
-      "DataDescuento": 0
+      "DataLiquidos": 4106.14,
+      "DataDescuento": 148.29
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 12591.61,
-      "DataDescuento": 0
+      "DataLiquidos": 3049.69,
+      "DataDescuento": 267.09
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 9085.72,
-      "DataDescuento": 0
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 1778.54,
+      "DataDescuento": 450.53
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 12976.46,
-      "DataDescuento": 0
+      "DataLiquidos": 1192.92,
+      "DataDescuento": 92.53
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 11246.66,
-      "DataDescuento": 0
+      "DataLiquidos": 6045.15,
+      "DataDescuento": 455.97
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 13356.04,
-      "DataDescuento": 0
+      "DataLiquidos": 6421.72,
+      "DataDescuento": 57.41
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 12433.78,
-      "DataDescuento": 0
+      "DataLiquidos": 1518.24,
+      "DataDescuento": 220.42
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 13470.86,
-      "DataDescuento": 0
+      "DataLiquidos": 4636.5,
+      "DataDescuento": 391.47
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 12875.39,
-      "DataDescuento": 0
+      "DataLiquidos": 2712.13,
+      "DataDescuento": 131.86
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 8603.51,
-      "DataDescuento": 0
+      "DataLiquidos": 2652.11,
+      "DataDescuento": 40.97
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 14260.64,
-      "DataDescuento": 0
+      "DataLiquidos": 3990.49,
+      "DataDescuento": 42.75
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 11501.56,
-      "DataDescuento": 0
+      "DataLiquidos": 4206.37,
+      "DataDescuento": 1679.67
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 12540.44,
-      "DataDescuento": 0
+      "DataLiquidos": 6234.48,
+      "DataDescuento": 414.62
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 10289.36,
-      "DataDescuento": 0
+      "DataLiquidos": 6709.89,
+      "DataDescuento": 211.21
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 12494.77,
-      "DataDescuento": 0
+      "DataLiquidos": 4195.83,
+      "DataDescuento": 24.51
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 12862.06,
-      "DataDescuento": 0
+      "DataLiquidos": 3506.16,
+      "DataDescuento": 51.51
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 7958.35,
-      "DataDescuento": 0
+      "DataLiquidos": 4206.57,
+      "DataDescuento": 34.39
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 14970.15,
-      "DataDescuento": 0
+      "DataLiquidos": 8103.41,
+      "DataDescuento": 176.47
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 12000.21,
-      "DataDescuento": 0
+      "DataLiquidos": 3544.24,
+      "DataDescuento": 1265.01
     }
   ],
-  "SAN PABLO": [
+  "MALA": [
     {
       "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 13694.03,
+      "DataDescuento": 25.73
     },
     {
       "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4914.48,
+      "DataDescuento": 839.52
     },
     {
       "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3536.86,
+      "DataDescuento": 573.42
     },
     {
       "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3706.47,
+      "DataDescuento": 159.69
     },
     {
       "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4166.79,
+      "DataDescuento": -200.50
     },
     {
       "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 7491.65,
+      "DataDescuento": 291.57
     },
     {
       "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6709.03,
+      "DataDescuento": 342.26
     },
     {
       "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
+      "DataLiquidos": 13503.35,
       "DataDescuento": 0
     },
     {
       "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6179.85,
+      "DataDescuento": 1168.42
     },
     {
       "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6994.24,
+      "DataDescuento": 781.13
     },
     {
       "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 8532.96,
+      "DataDescuento": 1489.73
     },
     {
       "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 2988.18,
+      "DataDescuento": 921.31
     },
     {
       "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6995.48,
+      "DataDescuento": 1931.77
     },
     {
       "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4602.09,
+      "DataDescuento": 612.03
     },
     {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "TULIS": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "fecha_hoja": "15/03/2026",
+      "DataLiquidos": 5398.94,
+      "DataDescuento": 595.14
     },
     {
       "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5088.87,
+      "DataDescuento": 815.77
     },
     {
       "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6062.46,
+      "DataDescuento": 987.96
     },
     {
       "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5820.52,
+      "DataDescuento": 33.57
     },
     {
       "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 8128.48,
+      "DataDescuento": 390.54
     },
     {
       "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 7930.7,
+      "DataDescuento": 488.81
     },
     {
       "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 5076.87,
+      "DataDescuento": 122.19
     },
     {
       "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 7456.83,
+      "DataDescuento": 285.40
     },
     {
       "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 2637.43,
+      "DataDescuento": 591.49
     },
     {
       "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 1754.8,
+      "DataDescuento": 672.13
     },
     {
       "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6036.27,
+      "DataDescuento": 137.30
     },
     {
       "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6495.34,
+      "DataDescuento": 113.01
     },
     {
       "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 4138.86,
+      "DataDescuento": 246.20
     },
     {
       "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 3039.32,
+      "DataDescuento": 113.80
     },
     {
       "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6408.14,
+      "DataDescuento": 521.27
     },
     {
       "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 7561.91,
+      "DataDescuento": 869.57
     },
     {
       "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "HUANCHACO": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "ENACE": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "ACAPULCO": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "SANMARCOS": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "MARIAEUGENIA": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "QUISTOCOCHA": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    }
-  ],
-  "VELITA": [
-    {
-      "fecha_hoja": "1/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "2/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "3/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "4/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "5/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "6/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "7/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "8/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "9/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "10/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "11/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "12/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "14/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "13/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "16/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "17/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "18/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "19/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "20/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "21/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "22/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "23/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "24/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "25/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "26/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "27/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "28/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "29/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "30/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
-    },
-    {
-      "fecha_hoja": "31/03/2026",
-      "DataLiquidos": 0,
-      "DataDescuento": 0
+      "DataLiquidos": 6410.46,
+      "DataDescuento": 606.04
     }
   ]
 }

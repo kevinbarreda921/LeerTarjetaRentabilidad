@@ -15,12 +15,14 @@ string rutaSalidaJson = Path.Combine(rutaProyecto, "ResultadoGrifos.json");
 
 try
 {
-    Console.WriteLine("Cargando la configuración de grifos desde JSON...");
-    var configGrifos = CargarConfiguracionGrifos(rutaArchivoJson, "Lou");
+    string sheetName = "Juan Carlos"; // Puede ser "Lou", "Coco", etc.
+
+    Console.WriteLine($"Cargando la configuración de grifos para la hoja '{sheetName}' desde JSON...");
+    var configGrifos = CargarConfiguracionGrifos(rutaArchivoJson, sheetName);
 
     if (configGrifos == null || configGrifos.Count == 0)
     {
-        MostrarError("No se encontró configuración para la hoja 'Lou' en el archivo JSON.");
+        MostrarError($"No se encontró configuración para la hoja '{sheetName}' en el archivo JSON.");
         return;
     }
 
@@ -30,8 +32,14 @@ try
     // 2. Leer los registros dinámicamente según la configuración
     //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Lou", configGrifos, 80, 110);
     //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Lou", configGrifos, 119, 148);
-    List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Coco", configGrifos, 80, 110);
-
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Coco", configGrifos, 80, 110);
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Coco",configGrifos, 118, 147);
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Jeaneth", configGrifos, 234, 264);
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Jeaneth", configGrifos, 272, 301);
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Mavel completo", configGrifos, 298, 328);
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Mavel completo", configGrifos, 335, 364);
+    List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Juan Carlos", configGrifos, 160, 190);
+    //List<RegistroTarjeta> registros = LeerExcelDinamico(rutaArchivoExcel, "Juan Carlos", configGrifos, 198, 227);
 
     // 3. Agrupar los resultados por grifo en el formato solicitado
     var agrupadoPorGrifo = registros
@@ -137,6 +145,12 @@ public static class ExcelService
         int startRow,
         int endRow)
     {
+        var campofecha=1;
+        if (sheetName == "Juan Carlos")
+        {
+            campofecha = 0;
+        }
+
         var resultList = new List<RegistroTarjeta>();
 
         if (!File.Exists(filePath))
@@ -163,7 +177,8 @@ public static class ExcelService
                         int colCount = reader.FieldCount;
 
                         // La fecha de la hoja siempre se encuentra en la columna index 1 (columna B)
-                        object? rawFecha = colCount > 1 ? reader.GetValue(1) : null;
+             
+                        object? rawFecha = colCount > 1 ? reader.GetValue(campofecha) : null;
                         string? fechaHoja = FormatearFecha(rawFecha);
 
                         // Iterar por cada grifo configurado en el JSON e insertar en la lista

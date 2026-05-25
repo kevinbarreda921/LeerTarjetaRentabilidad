@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\",
+  "WorkspaceRootPath": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\grifosleer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\grifosleer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectkevin\\leertarjetarentabilidad\\leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectkevin\\leertarjetarentabilidad\\leertarjetasrentabilidad\\grifosleer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\grifosleer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +17,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 140,
+          "DockedWidth": 105,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GrifosLeer.json",
-              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\GrifosLeer.json",
+              "DocumentMoniker": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\GrifosLeer.json",
               "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\GrifosLeer.json",
-              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\GrifosLeer.json",
+              "ToolTip": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\GrifosLeer.json",
               "RelativeToolTip": "LeerTarjetasRentabilidad\\GrifosLeer.json",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAgwAQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-24T07:38:26.807Z",
               "EditorCaption": ""
@@ -36,18 +36,18 @@
           ]
         },
         {
-          "DockedWidth": 260,
+          "DockedWidth": 295,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
+              "DocumentMoniker": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
               "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\Program.cs",
-              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
+              "ToolTip": "C:\\ProyectKevin\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
               "RelativeToolTip": "LeerTarjetasRentabilidad\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T06:46:44.891Z",
               "EditorCaption": ""

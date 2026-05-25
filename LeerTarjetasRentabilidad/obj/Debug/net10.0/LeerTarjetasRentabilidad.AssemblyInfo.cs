@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeerTarjetasRentabilidad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1257aa6d1c69878f9eda2f8aa31d025a467acc7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeerTarjetasRentabilidad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeerTarjetasRentabilidad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

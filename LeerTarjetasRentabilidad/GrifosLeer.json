@@ -66,62 +66,195 @@
       "celda_liquidos": 2,
       "celda_Descuento": 10
     },
-    "PUENTEPIEDRA": {
-      "celda_liquidos": 12,
+    "CLEAN": {
+      "celda_liquidos": 13,
+      "celda_Descuento": 22
+    },
+    "SANTO": {
+      "celda_liquidos": 25,
+      "celda_Descuento": 31
+    },
+    "BORJA": {
+      "celda_liquidos": 34,
+      "celda_Descuento": 40
+    },
+    "MANCO": {
+      "celda_liquidos": 43,
+      "celda_Descuento": 53
+    },
+    "BARRIOS": {
+      "celda_liquidos": 56,
+      "celda_Descuento": 62
+    },
+    "SAN LUIS": {
+      "celda_liquidos": 65,
+      "celda_Descuento": 71
+    },
+    "SAN ANTONIO": {
+      "celda_liquidos": 74,
+      "celda_Descuento": 80
+    }
+  },
+  "Jeaneth": {
+    "VENEZUELA": {
+      "celda_liquidos": 2,
+      "celda_Descuento": 11
+    },
+    "COQUIMBO": {
+      "celda_liquidos": 14,
+      "celda_Descuento": 22
+    },
+    "ESPERANZA": {
+      "celda_liquidos": 25,
+      "celda_Descuento": 33
+    },
+    "PORVENIR": {
+      "celda_liquidos": 36,
+      "celda_Descuento": 44
+    },
+    "REQUE": {
+      "celda_liquidos": 47,
+      "celda_Descuento": 55
+    },
+    "LARCO": {
+      "celda_liquidos": 58,
+      "celda_Descuento": 66
+    },
+    "RINCONADA": {
+      "celda_liquidos": 69,
+      "celda_Descuento": 77
+    },
+    "GARZON": {
+      "celda_liquidos": 80,
+      "celda_Descuento": 88
+    },
+    "PETIT": {
+      "celda_liquidos": 91,
+      "celda_Descuento": 99
+    },
+    "CASMA": {
+      "celda_liquidos": 102,
+      "celda_Descuento": 110
+    },
+    "ESCORPIONES": {
+      "celda_liquidos": 113,
+      "celda_Descuento": 121
+    },
+    "CACIQUE": {
+      "celda_liquidos": 124,
+      "celda_Descuento": 132
+    },
+    "VILLA MARIA": {
+      "celda_liquidos": 135,
+      "celda_Descuento": 143
+    },
+    "BILCON": {
+      "celda_liquidos": 146,
+      "celda_Descuento": 154
+    }
+  },
+  "Mavel completo": {
+    "SAN BARTOLO": {
+      "celda_liquidos": 2,
+      "celda_Descuento": 10
+    },
+    "CUSCO": {
+      "celda_liquidos": 13,
       "celda_Descuento": 20
     },
-    "CHILCA": {
+    "AMERICA": {
       "celda_liquidos": 23,
       "celda_Descuento": 31
     },
-    "VIRU": {
-      "celda_liquidos": 34,
+    "YAGUAL": {
+      "celda_liquidos": 35,
       "celda_Descuento": 42
     },
-    "BRASIL": {
+    "COAZAPA": {
       "celda_liquidos": 45,
-      "celda_Descuento": 53
+      "celda_Descuento": 52
     },
-    "MAKITA": {
-      "celda_liquidos": 56,
-      "celda_Descuento": 64
+    "SANTA INES": {
+      "celda_liquidos": 55,
+      "celda_Descuento": 62
     },
-    "SAN PABLO": {
-      "celda_liquidos": 67,
-      "celda_Descuento": 76
+    "GRACO": {
+      "celda_liquidos": 65,
+      "celda_Descuento": 74
     },
-    "TULIS": {
-      "celda_liquidos": 79,
-      "celda_Descuento": 86
+    "CASUARINAS": {
+      "celda_liquidos": 77,
+      "celda_Descuento": 85
     },
-    "HUANCHACO": {
-      "celda_liquidos": 89,
+    "CHINCHA": {
+      "celda_liquidos": 88,
       "celda_Descuento": 96
     },
-    "ENACE": {
+    "TITAS": {
       "celda_liquidos": 99,
-      "celda_Descuento": 107
+      "celda_Descuento": 108
     },
-    "ACAPULCO": {
-      "celda_liquidos": 110,
-      "celda_Descuento": 117
+    "SOLER": {
+      "celda_liquidos": 112,
+      "celda_Descuento": 121
     },
-    "SANMARCOS": {
-      "celda_liquidos": 120,
-      "celda_Descuento": 126
+    "SOTELO": {
+      "celda_liquidos": 124,
+      "celda_Descuento": 132
     },
-    "MARIAEUGENIA": {
-      "celda_liquidos": 129,
-      "celda_Descuento": 135
-    },
-    "QUISTOCOCHA": {
-      "celda_liquidos": 138,
+    "TROMPETEROS": {
+      "celda_liquidos": 135,
       "celda_Descuento": 144
     },
-    "VELITA": {
+    "TACNA": {
       "celda_liquidos": 147,
-      "celda_Descuento": 153
+      "celda_Descuento": 155
+    },
+    "SUNAMPE": {
+      "celda_liquidos": 158,
+      "celda_Descuento": 166
+    }
+  },
+  "Juan Carlos": {
+    "PUERTO": {
+      "celda_liquidos": 1,
+      "celda_Descuento": 9
+    },
+    "TOMAS": {
+      "celda_liquidos": 11,
+      "celda_Descuento": 20
+    },
+    "VARIANTE": {
+      "celda_liquidos": 22,
+      "celda_Descuento": 30
+    },
+    "JOYA 1": {
+      "celda_liquidos": 32,
+      "celda_Descuento": 40
+    },
+    "SULLANA": {
+      "celda_liquidos": 42,
+      "celda_Descuento": 50
+    },
+    "JOYA 2": {
+      "celda_liquidos": 52,
+      "celda_Descuento": 60
+    },
+    "PUCUSANA": {
+      "celda_liquidos": 62,
+      "celda_Descuento": 71
+    },
+    "CARAPONGO": {
+      "celda_liquidos": 73,
+      "celda_Descuento": 81
+    },
+    "SHESSELL": {
+      "celda_liquidos": 83,
+      "celda_Descuento": 91
+    },
+    "MALA": {
+      "celda_liquidos": 93,
+      "celda_Descuento": 102
     }
   }
-
 }
