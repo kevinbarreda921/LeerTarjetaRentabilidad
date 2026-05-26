@@ -1,0 +1,250 @@
+{
+  "Puente Piedra": {
+    "FilaInicio": 149,
+    "FilaFin": 184
+  },
+  "San bartolo": {
+    "FilaInicio": 151,
+    "FilaFin": 185
+  },
+  "Chilca": {
+    "FilaInicio": 150,
+    "FilaFin": 184
+  },
+  "Puerto": {
+    "FilaInicio": 147,
+    "FilaFin": 181
+  },
+  "T. Valle": {
+    "FilaInicio": 148,
+    "FilaFin": 185
+  },
+  "Cusco": {
+    "FilaInicio": 152,
+    "FilaFin": 187
+  },
+  "Pisco": {
+    "FilaInicio": 140,
+    "FilaFin": 169
+  },
+  "Variante": {
+    "FilaInicio": 147,
+    "FilaFin": 182
+  },
+  "Joya I": {
+    "FilaInicio": 143,
+    "FilaFin": 175
+  },
+  "Yagual": {
+    "FilaInicio": 150,
+    "FilaFin": 184
+  },
+  "Coazapa": {
+    "FilaInicio": 150,
+    "FilaFin": 185
+  },
+  "Viru": {
+    "FilaInicio": 146,
+    "FilaFin": 178
+  },
+  "Sta. Ines": {
+    "FilaInicio": 151,
+    "FilaFin": 186
+  },
+  "Coquimbo": {
+    "FilaInicio": 145,
+    "FilaFin": 176
+  },
+  "Esperanza": {
+    "FilaInicio": 185,
+    "FilaFin": 0
+  },
+  "Sullana": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Reque": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Joya II": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Larco": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Pucusana": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Porvenir": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Graco": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Catacaos": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Rinconada": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "P.T.": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "S. Marcos": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Brasil": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Casuarinas": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Garzon": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "M.Eugenia": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Chincha-": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Titas": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Soler": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Sotelo": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Trompeteros": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Makita": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "San Pablo": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Tacna": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Venezuela": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Casma": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Escorpiones": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Quistococha": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Tulis": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Cacique": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Sunampe": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Milagro": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Enace": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Acapulco": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "VMT": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Carapongo": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Bilcon": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Putumayo": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Shesshell": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Bauzate": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Santo Tomas": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Borja": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Mala": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Manco Capac": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Clean": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "Barrios Altos": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "San Luis": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  },
+  "San Antonio": {
+    "FilaInicio": 0,
+    "FilaFin": 0
+  }
+}

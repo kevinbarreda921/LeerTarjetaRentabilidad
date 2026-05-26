@@ -1,5 +1,5 @@
 {
-  "CATACAOS": [
+  "Catacaos": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3054.95,
@@ -306,7 +306,7 @@
       "DataDescuento": 576.63
     }
   ],
-  "PUENTEPIEDRA": [
+  "Puente Piedra": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 23452.78,
@@ -613,7 +613,7 @@
       "DataDescuento": 237.89
     }
   ],
-  "CHILCA": [
+  "Chilca": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 42916.25,
@@ -920,7 +920,7 @@
       "DataDescuento": 1895.53
     }
   ],
-  "VIRU": [
+  "Viru": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 5484.52,
@@ -1227,7 +1227,7 @@
       "DataDescuento": 1187.61
     }
   ],
-  "BRASIL": [
+  "Brasil": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 18992.22,
@@ -1534,7 +1534,7 @@
       "DataDescuento": 87.69
     }
   ],
-  "MAKITA": [
+  "Makita": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1375.96,
@@ -1841,7 +1841,7 @@
       "DataDescuento": 19.01
     }
   ],
-  "SAN PABLO": [
+  "San Pablo": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1465.48,
@@ -2148,7 +2148,7 @@
       "DataDescuento": 1671.18
     }
   ],
-  "TULIS": [
+  "Tulis": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 5695.17,
@@ -2455,7 +2455,7 @@
       "DataDescuento": 17.24
     }
   ],
-  "HUANCHACO": [
+  "Milagro": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1972.7,
@@ -2762,7 +2762,7 @@
       "DataDescuento": 0
     }
   ],
-  "ENACE": [
+  "Enace": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 585.17,
@@ -3069,7 +3069,7 @@
       "DataDescuento": 0
     }
   ],
-  "ACAPULCO": [
+  "Acapulco": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1088.83,
@@ -3376,7 +3376,7 @@
       "DataDescuento": 228.70
     }
   ],
-  "SANMARCOS": [
+  "S. Marcos": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 691.45,
@@ -3683,7 +3683,7 @@
       "DataDescuento": 0
     }
   ],
-  "MARIAEUGENIA": [
+  "M.Eugenia": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 186.22,
@@ -3990,7 +3990,7 @@
       "DataDescuento": 0
     }
   ],
-  "QUISTOCOCHA": [
+  "Quistococha": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 2721.5,
@@ -4297,7 +4297,7 @@
       "DataDescuento": 263
     }
   ],
-  "VELITA": [
+  "Putumayo": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1356.91,
@@ -4604,7 +4604,7 @@
       "DataDescuento": 125.99
     }
   ],
-  "BAUZATE": [
+  "Bauzate": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1929.18,
@@ -4911,7 +4911,7 @@
       "DataDescuento": 9.69
     }
   ],
-  "CLEAN": [
+  "Clean": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1503.75,
@@ -5218,7 +5218,7 @@
       "DataDescuento": 73.8
     }
   ],
-  "SANTO": [
+  "Santo Tomas": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 447,
@@ -5525,7 +5525,7 @@
       "DataDescuento": 312.9
     }
   ],
-  "BORJA": [
+  "Borja": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 570.9,
@@ -5832,7 +5832,7 @@
       "DataDescuento": 0
     }
   ],
-  "MANCO": [
+  "Manco Capac": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1246.42,
@@ -6139,7 +6139,7 @@
       "DataDescuento": 0
     }
   ],
-  "BARRIOS": [
+  "Barrios Altos": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 7726.29,
@@ -6446,7 +6446,7 @@
       "DataDescuento": 41.21
     }
   ],
-  "SAN LUIS": [
+  "San Luis": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 264,
@@ -6753,7 +6753,7 @@
       "DataDescuento": 404.16
     }
   ],
-  "SAN ANTONIO": [
+  "San Antonio": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 218.8,
@@ -7060,7 +7060,7 @@
       "DataDescuento": 0
     }
   ],
-  "VENEZUELA": [
+  "Venezuela": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 20786.16,
@@ -7367,7 +7367,7 @@
       "DataDescuento": 16.81
     }
   ],
-  "COQUIMBO": [
+  "Coquimbo": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1011.05,
@@ -7674,7 +7674,7 @@
       "DataDescuento": 211.00
     }
   ],
-  "ESPERANZA": [
+  "Esperanza": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3685.41,
@@ -7981,7 +7981,7 @@
       "DataDescuento": 258.78
     }
   ],
-  "PORVENIR": [
+  "Porvenir": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 2930.72,
@@ -8288,7 +8288,7 @@
       "DataDescuento": 0
     }
   ],
-  "REQUE": [
+  "Reque": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 734.44,
@@ -8595,7 +8595,7 @@
       "DataDescuento": 453.85
     }
   ],
-  "LARCO": [
+  "Larco": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 4101.39,
@@ -8902,7 +8902,7 @@
       "DataDescuento": 198.56
     }
   ],
-  "RINCONADA": [
+  "Rinconada": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 85,
@@ -9209,7 +9209,7 @@
       "DataDescuento": 0
     }
   ],
-  "GARZON": [
+  "Garzon": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 29326.87,
@@ -9516,7 +9516,7 @@
       "DataDescuento": 0
     }
   ],
-  "PETIT": [
+  "P.T.": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 8886.87,
@@ -9823,7 +9823,7 @@
       "DataDescuento": 347.98
     }
   ],
-  "CASMA": [
+  "Casma": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 7488.09,
@@ -10130,7 +10130,7 @@
       "DataDescuento": 667.09
     }
   ],
-  "ESCORPIONES": [
+  "Escorpiones": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1773.43,
@@ -10437,7 +10437,7 @@
       "DataDescuento": 0
     }
   ],
-  "CACIQUE": [
+  "Cacique": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1739.87,
@@ -10744,7 +10744,7 @@
       "DataDescuento": 88.92
     }
   ],
-  "VILLA MARIA": [
+  "VMT": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 4485.72,
@@ -11051,7 +11051,7 @@
       "DataDescuento": 168.73
     }
   ],
-  "BILCON": [
+  "Bilcon": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 389.98,
@@ -11358,7 +11358,7 @@
       "DataDescuento": 0
     }
   ],
-  "SAN BARTOLO": [
+  "San bartolo": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 23197.51,
@@ -11665,7 +11665,7 @@
       "DataDescuento": 67.42
     }
   ],
-  "CUSCO": [
+  "Cusco": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 4507.41,
@@ -11972,7 +11972,7 @@
       "DataDescuento": 178.64
     }
   ],
-  "AMERICA": [
+  "Pisco": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 120,
@@ -12279,7 +12279,7 @@
       "DataDescuento": 84.33
     }
   ],
-  "YAGUAL": [
+  "Yagual": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1400.95,
@@ -12586,7 +12586,7 @@
       "DataDescuento": 0
     }
   ],
-  "COAZAPA": [
+  "Coazapa": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3430.23,
@@ -12893,7 +12893,7 @@
       "DataDescuento": 0
     }
   ],
-  "SANTA INES": [
+  "Sta. Ines": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 2318.64,
@@ -13200,7 +13200,7 @@
       "DataDescuento": 40.79
     }
   ],
-  "GRACO": [
+  "Graco": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 12696.5,
@@ -13507,7 +13507,7 @@
       "DataDescuento": 294.66
     }
   ],
-  "CASUARINAS": [
+  "Casuarinas": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 0,
@@ -13814,7 +13814,7 @@
       "DataDescuento": 126.97
     }
   ],
-  "CHINCHA": [
+  "Chincha-": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 5631.36,
@@ -14121,7 +14121,7 @@
       "DataDescuento": 140.41
     }
   ],
-  "TITAS": [
+  "Titas": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 4422.36,
@@ -14428,7 +14428,7 @@
       "DataDescuento": 215.85
     }
   ],
-  "SOLER": [
+  "Soler": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3839.32,
@@ -14735,7 +14735,7 @@
       "DataDescuento": 334.95
     }
   ],
-  "SOTELO": [
+  "Sotelo": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1201.5,
@@ -15042,7 +15042,7 @@
       "DataDescuento": 28.21
     }
   ],
-  "TROMPETEROS": [
+  "Trompeteros": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1201.08,
@@ -15349,7 +15349,7 @@
       "DataDescuento": 998.06
     }
   ],
-  "TACNA": [
+  "Tacna": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3413.39,
@@ -15656,7 +15656,7 @@
       "DataDescuento": 213.16
     }
   ],
-  "SUNAMPE": [
+  "Sunampe": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 592.06,
@@ -15963,7 +15963,7 @@
       "DataDescuento": 0
     }
   ],
-  "PUERTO": [
+  "Puerto": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 2787.23,
@@ -16270,7 +16270,7 @@
       "DataDescuento": 520.68
     }
   ],
-  "TOMAS": [
+  "T. Valle": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 8892.51,
@@ -16577,7 +16577,7 @@
       "DataDescuento": 848.07
     }
   ],
-  "VARIANTE": [
+  "Variante": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 6245.9,
@@ -16884,7 +16884,7 @@
       "DataDescuento": 12.68
     }
   ],
-  "JOYA 1": [
+  "Joya I": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 7330.58,
@@ -17191,7 +17191,7 @@
       "DataDescuento": 0
     }
   ],
-  "SULLANA": [
+  "Sullana": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3666.18,
@@ -17498,7 +17498,7 @@
       "DataDescuento": 583.75
     }
   ],
-  "JOYA 2": [
+  "Joya II": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 3760.81,
@@ -17805,7 +17805,7 @@
       "DataDescuento": 95.11
     }
   ],
-  "PUCUSANA": [
+  "Pucusana": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 14997.91,
@@ -18112,7 +18112,7 @@
       "DataDescuento": 1977.63
     }
   ],
-  "CARAPONGO": [
+  "Carapongo": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 2439.54,
@@ -18419,7 +18419,7 @@
       "DataDescuento": 5.43
     }
   ],
-  "SHESSELL": [
+  "Shesshell": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 1044.97,
@@ -18726,7 +18726,7 @@
       "DataDescuento": 338.89
     }
   ],
-  "MALA": [
+  "Mala": [
     {
       "fecha_hoja": "1/03/2026",
       "DataLiquidos": 13694.03,

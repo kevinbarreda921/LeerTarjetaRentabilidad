@@ -50,3 +50,4 @@ C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10
 C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\LeerTarjetasRentabilidad.pdb
 C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\LeerTarjetasRentabilidad.genruntimeconfig.cache
 C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\ref\LeerTarjetasRentabilidad.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\LeerTarjetasRentabilidad.sourcelink.json
