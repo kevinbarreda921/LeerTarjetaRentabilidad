@@ -51,3 +51,17 @@ C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10
 C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\LeerTarjetasRentabilidad.genruntimeconfig.cache
 C:\ProyectKevin\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\ref\LeerTarjetasRentabilidad.dll
 C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\obj\Debug\net10.0\LeerTarjetasRentabilidad.sourcelink.json
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\EPPlus.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\EPPlus.Interfaces.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\System.Security.Cryptography.Xml.dll
+C:\ProyectNet\LeerTarjetaRentabilidad\LeerTarjetasRentabilidad\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll

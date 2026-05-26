@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\configuracionrentabilidad.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\configuracionrentabilidad.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\resultadogrifos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\resultadogrifos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\configuracionrentabilidad - abril.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\configuracionrentabilidad - abril.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\resultadodiasrentabilidad.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\resultadodiasrentabilidad.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|c:\\proyectnet\\leertarjetarentabilidad\\leertarjetasrentabilidad\\fechasescribir.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497AE61F-03DC-4C23-9312-31924E89A73F}|LeerTarjetasRentabilidad\\LeerTarjetasRentabilidad.csproj|solutionrelative:leertarjetasrentabilidad\\fechasescribir.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,66 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResultadoDiasRentabilidad.json",
-              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ResultadoDiasRentabilidad.json",
-              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\ResultadoDiasRentabilidad.json",
-              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ResultadoDiasRentabilidad.json",
-              "RelativeToolTip": "LeerTarjetasRentabilidad\\ResultadoDiasRentabilidad.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ResultadoGrifos.json",
+              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "RelativeToolTip": "LeerTarjetasRentabilidad\\ResultadoGrifos.json",
+              "ViewState": "AgIAACNKAAAAAAAAAAAYwC5KAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-26T03:48:12.232Z",
+              "WhenOpened": "2026-05-26T04:38:45.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
-              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\Program.cs",
-              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\Program.cs",
-              "RelativeToolTip": "LeerTarjetasRentabilidad\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T03:32:14.126Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 194,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfiguracionRentabilidad.json",
-              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ConfiguracionRentabilidad.json",
-              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\ConfiguracionRentabilidad.json",
-              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ConfiguracionRentabilidad.json",
-              "RelativeToolTip": "LeerTarjetasRentabilidad\\ConfiguracionRentabilidad.json",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-26T03:06:42.916Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 185,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConfiguracionRentabilidad - Abril.json",
-              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ConfiguracionRentabilidad - Abril.json",
-              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\ConfiguracionRentabilidad - Abril.json",
-              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\ConfiguracionRentabilidad - Abril.json",
-              "RelativeToolTip": "LeerTarjetasRentabilidad\\ConfiguracionRentabilidad - Abril.json",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
+              "Title": "fechasEscribir.json",
+              "DocumentMoniker": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\fechasEscribir.json",
+              "RelativeDocumentMoniker": "LeerTarjetasRentabilidad\\fechasEscribir.json",
+              "ToolTip": "C:\\ProyectNet\\LeerTarjetaRentabilidad\\LeerTarjetasRentabilidad\\fechasEscribir.json",
+              "RelativeToolTip": "LeerTarjetasRentabilidad\\fechasEscribir.json",
+              "ViewState": "AgIAAF07AAAAAAAAAAAYwJU7AAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-26T03:29:54.847Z",
+              "WhenOpened": "2026-05-26T04:18:30.432Z",
               "EditorCaption": ""
             }
           ]
